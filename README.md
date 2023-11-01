@@ -1,19 +1,43 @@
 # 💛 Donorticon
-> 사용하지 않는 기프티콘으로 사회취약계층에게 뜻깊은 기부를 할 수 있는 Donorticon.  
-> 도움을 주고픈 복지사/단체를 선택하고 기프티콘을 나누어 주세요.
 
-[🏠 Donorticon Homepage](https://d3a8nxwlsnbz91.cloudfront.net/)
+> Donation website, repurposing unused mobile vouchers for a meaningful cause. <br />
+> Choose a worker/organization you'd like to help and donate unused mobile vouchers.
 
-## 👀 Logo
-![로고](https://user-images.githubusercontent.com/90431155/153132393-af99f33a-9507-41dc-8860-ef3a41412376.png)
+### 💛 Webpage Preview
+<img src="https://user-images.githubusercontent.com/90431155/156516783-8fb90a4f-b444-4367-8944-44f9d4a17eed.png"/>
 
-## ✨ Feature
-* 키워드 선택으로 원하는 분야에 기프티콘을 기부할 수 있습니다.  
-* 해쉬태그 선택으로 해당 기프티콘이 필요한 Helper에게 기프티콘을 기부할 수 있습니다.  
-* Helper는 취약계층 지원활동에 기프티콘을 사용할 수 있습니다.  
-* Helper는 감사인사와 인증사진을 Giver에게 남길 수 있습니다.  
+### 💛 Stack
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
-## 🙌🏻 Team K2H2
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+### 💛 Work Log - All works are done both front and server.
+* Designed all pages and made them responsive with Styled-Components.
+* Made Loader component and used it whenever needed.
+  
+* Landing Page / Header and Footer
+
+* Users can choose where to donate: a worker/organization filtering - 2 depth
+  * level 1: a worker/organization depending on who he/she/they work for <br/>
+    (ex. children/elders/disabled/multicultural family/single parent family etc)
+  * level 2: Types of mobile voucher which a worker/organization needs <br/>
+    (ex. foods/cosmetics/clothings/home etc)
+    
+  ![helper_filtering](https://github.com/tiatiahwang/Donorticon/assets/90431155/a33801a4-6ae0-49c1-9552-1280a538315f)
+
+* Users can check the status of mobile vouchers that they donated: Used/Accepted/Checking/Rejected/
+* A worker/organization can <b>reject</b> mobile vouchers.
+
+  ![gifticon_rejected](https://github.com/tiatiahwang/Donorticon/assets/90431155/1cc71cf3-7ae6-4979-a9b4-538af74ced68)
+
+  
+* A worker/organization can <b>report</b> mobile vouchers.
+
+  ![gifticon_reported](https://github.com/tiatiahwang/Donorticon/assets/90431155/688ae73a-6d2d-40ee-bbb6-4e276cf64e64)
+
+
+
+### 💛 Team K2H2
 
 <table>
     <tr>
