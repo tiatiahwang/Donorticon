@@ -12,8 +12,9 @@
 (Giver = users / Helper = a worker/organization)
 * <b>Designed</b> all pages and made them <b>responsive</b> with Styled-Components.
 * Made <b>Loader</b> component and used it whenever needed.
-  
-* Made landing Page with animation along with header and footer.
+* Created a custom <b>email verification template</b> using HTML and CSS, integrated with Nodemailer.
+
+* Built <b>landing page</b> with animation along with <b>header</b> and <b>footer</b>.
 
   ![landing_page](https://github.com/tiatiahwang/Donorticon/assets/90431155/15064956-5884-4701-8a93-3697eba43968)
 
