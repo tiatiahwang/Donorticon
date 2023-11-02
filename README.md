@@ -3,29 +3,33 @@
 > Donation website, repurposing unused mobile vouchers for a meaningful cause. <br />
 > Choose a worker/organization you'd like to help and donate unused mobile vouchers.
 
-### 💛 Webpage Preview
-<img src="https://user-images.githubusercontent.com/90431155/156516783-8fb90a4f-b444-4367-8944-44f9d4a17eed.png"/>
-
 ### 💛 Stack
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 ### 💛 Work Log - All works are done both front and server.
-* Designed all pages and made them responsive with Styled-Components.
-* Made Loader component and used it whenever needed.
+* <b>Designed</b> all pages and made them <b>responsive</b> with Styled-Components.
+* Made <b>Loader</b> component and used it whenever needed.
   
-* Landing Page / Header and Footer
+* Made landing Page with animation along with header and footer.
 
-* Users can choose where to donate: a worker/organization filtering - 2 depth
+  ![landing_page](https://github.com/tiatiahwang/Donorticon/assets/90431155/d76d9b15-a48b-47da-a9ce-e93d5f4db097)
+
+* Users can choose where to donate: a worker/organization <b>filtering</b> - 2 depth
+
   * level 1: a worker/organization depending on who he/she/they work for <br/>
     (ex. children/elders/disabled/multicultural family/single parent family etc)
+    
   * level 2: Types of mobile voucher which a worker/organization needs <br/>
     (ex. foods/cosmetics/clothings/home etc)
     
   ![helper_filtering](https://github.com/tiatiahwang/Donorticon/assets/90431155/a33801a4-6ae0-49c1-9552-1280a538315f)
 
-* Users can check the status of mobile vouchers that they donated: Used/Accepted/Checking/Rejected/
+* Users can <b>filter</b> the status of mobile vouchers that they donated: Used/Accepted/Checking/Rejected/Invalid
+
+  <img width="973" alt="스크린샷 2023-11-01 오후 4 53 44" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/ddc75af9-c471-4046-b5da-ab1d832e6629">
+
 * A worker/organization can <b>reject</b> mobile vouchers.
 
   ![gifticon_rejected](https://github.com/tiatiahwang/Donorticon/assets/90431155/1cc71cf3-7ae6-4979-a9b4-538af74ced68)
@@ -34,7 +38,6 @@
 * A worker/organization can <b>report</b> mobile vouchers.
 
   ![gifticon_reported](https://github.com/tiatiahwang/Donorticon/assets/90431155/688ae73a-6d2d-40ee-bbb6-4e276cf64e64)
-
 
 
 ### 💛 Team K2H2
@@ -78,5 +81,5 @@
     </tr>
 </table>
 
-## 😎 More Info 
+### 💛 More Info 
 ➡️ [Donorticon Wiki page](https://github.com/codestates/Donorticon/wiki)
