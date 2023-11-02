@@ -35,7 +35,7 @@
 
   * Givers can check their <b>points</b> - they can get points from helper if helper use the mobile voucher.
      
-    <img width="1479" alt="스크린샷 2023-11-01 오후 6 50 08" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/92084c7c-fb59-414c-a95b-98921b66da29">
+    <img width="1479" alt="giver_points8" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/92084c7c-fb59-414c-a95b-98921b66da29">
 
 * Helpers can <b>reject</b> mobile vouchers.
 
