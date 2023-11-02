@@ -15,7 +15,7 @@
   
 * Made landing Page with animation along with header and footer.
 
-  ![landing_page](https://github.com/tiatiahwang/Donorticon/assets/90431155/1cb1bce8-f83f-44bd-83ed-b0129bf9f045)
+  ![landing_page](https://github.com/tiatiahwang/Donorticon/assets/90431155/15064956-5884-4701-8a93-3697eba43968)
 
 * Givers can choose where to donate: Helper <b>filtering</b> - 2 depth
 
@@ -25,26 +25,27 @@
   * level 2: Types of a mobile voucher which helpers need <br/>
     (ex. foods/cosmetics/clothings/home etc)
     
-  ![helper_filtering](https://github.com/tiatiahwang/Donorticon/assets/90431155/a33801a4-6ae0-49c1-9552-1280a538315f)
+  ![helper_filtering](https://github.com/tiatiahwang/Donorticon/assets/90431155/555efa0e-a98c-4899-8b7f-ac9ba5c30b09)
 
 * Givers or Helpers can check mobile vouchers they donated or received.
   
   * Givers and Helpers can <b>filter</b> by the status of mobile vouchers: Used/Accepted/Checking/Rejected/Invalid
-    
-    <img width="1449" alt="helper_gifticon_list" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/d080c6e9-c4ed-4fe7-bf86-23e69be8b8a4">
+  
+    <img width="1481" alt="helper_gifticon_list" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/0a7e48b5-5726-4b74-aa54-fa8e209ef8de">
 
   * Givers can check their <b>points</b> - they can get points from helper if helper use the mobile voucher.
      
-    <img width="1479" alt="giver_points8" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/92084c7c-fb59-414c-a95b-98921b66da29">
+    <img width="1479" alt="giver_points" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/75801dd7-9643-4cbf-b3a2-1ff816c6375b">
 
 * Helpers can <b>reject</b> mobile vouchers.
 
-  ![gifticon_rejected](https://github.com/tiatiahwang/Donorticon/assets/90431155/1cc71cf3-7ae6-4979-a9b4-538af74ced68)
-  
+  ![gifticon_rejected](https://github.com/tiatiahwang/Donorticon/assets/90431155/7a803c60-d1aa-405e-8ae6-334afd060641)
+
 * Helpers can <b>report</b> mobile vouchers.
   * If helper report the voucher, giver who donated that voucher get -1 point.
     
-  ![gifticon_reported](https://github.com/tiatiahwang/Donorticon/assets/90431155/688ae73a-6d2d-40ee-bbb6-4e276cf64e64)
+  ![gifticon_reported](https://github.com/tiatiahwang/Donorticon/assets/90431155/79e465a5-656f-4cd9-bb23-7e0e02bdae4a)
+
 
 ### 💛 Team K2H2
 
