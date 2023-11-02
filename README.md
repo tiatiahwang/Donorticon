@@ -9,36 +9,42 @@
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 ### 💛 Work Log - All works are done both front and server.
+(Giver = users / Helper = a worker/organization)
 * <b>Designed</b> all pages and made them <b>responsive</b> with Styled-Components.
 * Made <b>Loader</b> component and used it whenever needed.
   
 * Made landing Page with animation along with header and footer.
 
-  ![landing_page](https://github.com/tiatiahwang/Donorticon/assets/90431155/d76d9b15-a48b-47da-a9ce-e93d5f4db097)
+  ![landing_page](https://github.com/tiatiahwang/Donorticon/assets/90431155/1cb1bce8-f83f-44bd-83ed-b0129bf9f045)
 
-* Users can choose where to donate: a worker/organization <b>filtering</b> - 2 depth
+* Givers can choose where to donate: Helper <b>filtering</b> - 2 depth
 
-  * level 1: a worker/organization depending on who he/she/they work for <br/>
+  * level 1: helpers depending on who they work for <br/>
     (ex. children/elders/disabled/multicultural family/single parent family etc)
     
-  * level 2: Types of mobile voucher which a worker/organization needs <br/>
+  * level 2: Types of a mobile voucher which helpers need <br/>
     (ex. foods/cosmetics/clothings/home etc)
     
   ![helper_filtering](https://github.com/tiatiahwang/Donorticon/assets/90431155/a33801a4-6ae0-49c1-9552-1280a538315f)
 
-* Users can <b>filter</b> the status of mobile vouchers that they donated: Used/Accepted/Checking/Rejected/Invalid
+* Givers or Helpers can check mobile vouchers they donated or received.
+  
+  * <b>Filtering</b> by the status of mobile vouchers: Used/Accepted/Checking/Rejected/Invalid
+    
+    <img width="1449" alt="helper_gifticon_list" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/d080c6e9-c4ed-4fe7-bf86-23e69be8b8a4">
 
-  <img width="973" alt="스크린샷 2023-11-01 오후 4 53 44" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/ddc75af9-c471-4046-b5da-ab1d832e6629">
+  * Givers can check their points - they can get points from helper if helper use the mobile voucher.
+     
+    <img width="1479" alt="스크린샷 2023-11-01 오후 6 50 08" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/92084c7c-fb59-414c-a95b-98921b66da29">
 
-* A worker/organization can <b>reject</b> mobile vouchers.
+* Helpers can <b>reject</b> mobile vouchers.
 
   ![gifticon_rejected](https://github.com/tiatiahwang/Donorticon/assets/90431155/1cc71cf3-7ae6-4979-a9b4-538af74ced68)
-
   
-* A worker/organization can <b>report</b> mobile vouchers.
-
+* Helpers can <b>report</b> mobile vouchers.
+  * If helper report the voucher, giver who donated that voucher get -1 point.
+    
   ![gifticon_reported](https://github.com/tiatiahwang/Donorticon/assets/90431155/688ae73a-6d2d-40ee-bbb6-4e276cf64e64)
-
 
 ### 💛 Team K2H2
 
