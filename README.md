@@ -29,11 +29,11 @@
 
 * Givers or Helpers can check mobile vouchers they donated or received.
   
-  * <b>Filtering</b> by the status of mobile vouchers: Used/Accepted/Checking/Rejected/Invalid
+  * Givers and Helpers can <b>filter</b> by the status of mobile vouchers: Used/Accepted/Checking/Rejected/Invalid
     
     <img width="1449" alt="helper_gifticon_list" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/d080c6e9-c4ed-4fe7-bf86-23e69be8b8a4">
 
-  * Givers can check their points - they can get points from helper if helper use the mobile voucher.
+  * Givers can check their <b>points</b> - they can get points from helper if helper use the mobile voucher.
      
     <img width="1479" alt="스크린샷 2023-11-01 오후 6 50 08" src="https://github.com/tiatiahwang/Donorticon/assets/90431155/92084c7c-fb59-414c-a95b-98921b66da29">
 
